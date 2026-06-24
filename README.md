@@ -158,6 +158,7 @@ This distinguishes agents from simple chatbots or single-turn LLM applications.
 - [Motorhead](https://github.com/getmetal/motorhead) - Memory and context management server for LLMs.
 - [LangMem](https://github.com/langchain-ai/langmem) - LangChain's SDK for long-term memory in LLM applications.
 - [Cognee](https://github.com/topoteretes/cognee) - Memory management for AI agents using knowledge graphs and vector stores.
+- [Remio](https://remio.ai/) - Local-first AI memory and knowledge base desktop app with CLI and skill access for agents to query indexed personal context.
 
 ## RAG for Agents
 
