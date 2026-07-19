@@ -146,7 +146,7 @@ Esto distingue a los agentes de los chatbots simples o las aplicaciones LLM de u
 - [mcp-use](https://github.com/pietrozullo/mcp-use) - Biblioteca de código abierto para conectar cualquier LLM con cualquier servidor MCP.
 - [Smithery](https://smithery.ai/) - Registro y marketplace para descubrir y desplegar servidores MCP.
 - [Glama](https://glama.ai/mcp/servers) - Plataforma de descubrimiento y directorio de servidores MCP.
-- [mcpx](https://github.com/ArcadeAI/mcpx) - Ejecutor de servidores MCP con instalación y ejecución en un solo comando.
+- [mcpx](https://github.com/arcadeai-labs/mcpx) - Cliente de línea de comandos para inspeccionar y llamar servidores MCP.
 
 ## Memoria de agentes
 

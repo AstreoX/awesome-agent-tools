@@ -146,7 +146,7 @@ AI 에이전트는 LLM을 핵심 추론 엔진으로 사용하며 다음을 수�
 - [mcp-use](https://github.com/pietrozullo/mcp-use) - 모든 LLM을 모든 MCP 서버에 연결하기 위한 오픈소스 라이브러리.
 - [Smithery](https://smithery.ai/) - MCP 서버를 검색하고 배포하기 위한 레지스트리 및 마켓플레이스.
 - [Glama](https://glama.ai/mcp/servers) - MCP 서버 검색 및 디렉토리 플랫폼.
-- [mcpx](https://github.com/ArcadeAI/mcpx) - 원클릭 설치 및 실행이 가능한 MCP 서버 러너.
+- [mcpx](https://github.com/arcadeai-labs/mcpx) - MCP 서버를 검사하고 호출하는 명령줄 클라이언트.
 
 ## 에이전트 메모리
 

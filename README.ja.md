@@ -146,7 +146,7 @@ AIエージェントとは、LLMをコア推論エンジンとして使用し、
 - [mcp-use](https://github.com/pietrozullo/mcp-use) - 任意のLLMを任意のMCPサーバーに接続するオープンソースライブラリ。
 - [Smithery](https://smithery.ai/) - MCPサーバーの発見とデプロイのためのレジストリ・マーケットプレイス。
 - [Glama](https://glama.ai/mcp/servers) - MCPサーバーの発見とディレクトリプラットフォーム。
-- [mcpx](https://github.com/ArcadeAI/mcpx) - ワンコマンドでインストール・実行できるMCPサーバーランナー。
+- [mcpx](https://github.com/arcadeai-labs/mcpx) - MCP サーバーの検査と呼び出しを行うコマンドラインクライアント。
 
 ## エージェントメモリ
 
