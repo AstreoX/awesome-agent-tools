@@ -146,7 +146,7 @@ AI 智能体是一种以大语言模型作为核心推理引擎的系统，它�
 - [mcp-use](https://github.com/pietrozullo/mcp-use) - 开源库，将任何大语言模型连接到任何 MCP 服务器。
 - [Smithery](https://smithery.ai/) - 发现和部署 MCP 服务器的注册中心和市场。
 - [Glama](https://glama.ai/mcp/servers) - MCP 服务器发现和目录平台。
-- [mcpx](https://github.com/ArcadeAI/mcpx) - MCP 服务器运行器，一条命令即可安装和运行。
+- [mcpx](https://github.com/arcadeai-labs/mcpx) - 用于检查和调用 MCP 服务器的命令行客户端。
 
 ## 智能体记忆
 

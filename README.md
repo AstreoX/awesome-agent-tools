@@ -146,7 +146,8 @@ This distinguishes agents from simple chatbots or single-turn LLM applications.
 - [mcp-use](https://github.com/pietrozullo/mcp-use) - Open-source library to connect any LLM to any MCP server.
 - [Smithery](https://smithery.ai/) - Registry and marketplace for discovering and deploying MCP servers.
 - [Glama](https://glama.ai/mcp/servers) - MCP server discovery and directory platform.
-- [mcpx](https://github.com/ArcadeAI/mcpx) - Runner for MCP servers with one-command install and run.
+- [mcpx](https://github.com/arcadeai-labs/mcpx) - Command-line client for inspecting and calling MCP servers.
+- [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - MCP server and REST API for X data workflows, including search, profile lookup, media extraction, monitoring, and webhooks. Not affiliated with X Corp.
 
 ## Agent Memory
 
