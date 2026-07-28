@@ -200,6 +200,7 @@ This distinguishes agents from simple chatbots or single-turn LLM applications.
 - [DeepEval](https://github.com/confident-ai/deepeval) - LLM evaluation framework with 14+ metrics.
 - [Promptfoo](https://github.com/promptfoo/promptfoo) - Tool for testing and evaluating LLM outputs.
 - [TauBench](https://github.com/sierra-research/tau-bench) - Benchmark for evaluating tool-agent-user interactions in real-world domains.
+- [ClawBench](https://github.com/TIGER-AI-Lab/ClawBench) - Open-source benchmark for browser agents on 283 everyday tasks across 163 live production websites, with execution traces and safe submission interception.
 - [Agent-as-a-Judge](https://github.com/metauto-ai/agent-as-a-judge) - Using agents to evaluate agent outputs.
 
 ## Agent Security & Guardrails
