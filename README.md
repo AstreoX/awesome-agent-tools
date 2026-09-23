@@ -147,6 +147,7 @@ This distinguishes agents from simple chatbots or single-turn LLM applications.
 - [Smithery](https://smithery.ai/) - Registry and marketplace for discovering and deploying MCP servers.
 - [Glama](https://glama.ai/mcp/servers) - MCP server discovery and directory platform.
 - [mcpx](https://github.com/ArcadeAI/mcpx) - Runner for MCP servers with one-command install and run.
+- [Statsnet](https://github.com/usenetstate/statsnet-mcp) - Background check any company in the world: registration, executives, courts and finances. Remote MCP: https://statsnet.co/mcp
 
 ## Agent Memory
 
