@@ -228,6 +228,7 @@ This distinguishes agents from simple chatbots or single-turn LLM applications.
 ## Voice & Multimodal Agents
 
 *Frameworks for building agents that can hear, see, and speak.*
+- [AI Group Call](https://aigroupcall.app) - You set a goal and two to eight AI voices run a round-table call with you: drop-ins, barge-in, and a written recap.
 
 - [Pipecat](https://github.com/pipecat-ai/pipecat) - Open-source framework for voice and multimodal conversational AI.
 - [LiveKit Agents](https://github.com/livekit/agents) - Framework for building real-time multimodal AI agents.
