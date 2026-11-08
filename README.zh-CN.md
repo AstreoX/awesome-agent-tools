@@ -262,6 +262,7 @@ AI 智能体是一种以大语言模型作为核心推理引擎的系统，它�
 - [Browserbase](https://www.browserbase.com/) - 面向 AI 智能体的云浏览器基础设施。
 - [MultiOn](https://www.multion.ai/) - 代替用户与网站交互的 AI 智能体。
 - [WebVoyager](https://github.com/MinorJerry/WebVoyager) - 使用大型多模态模型构建端到端网页智能体。
+- [agent-qa](https://vostride.com) - 用自然语言执行网页和移动端 QA，具备持久化 memidex 记忆、经过验证的自我改进和运行证据；[FSL-1.1-ALv2](https://vostride.com/license.md) 限制竞争性使用，模型和基础设施费用另计。
 
 ## 研究型智能体
 

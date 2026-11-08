@@ -262,6 +262,7 @@ This distinguishes agents from simple chatbots or single-turn LLM applications.
 - [Browserbase](https://www.browserbase.com/) - Cloud browser infrastructure for AI agents.
 - [MultiOn](https://www.multion.ai/) - AI agent for interacting with websites on behalf of users.
 - [WebVoyager](https://github.com/MinorJerry/WebVoyager) - Building an end-to-end web agent with LMMs.
+- [agent-qa](https://vostride.com) - Natural-language web and mobile QA with persistent memidex memory, validated self-improvement and run evidence; [FSL-1.1-ALv2](https://vostride.com/license.md) restricts competing use, with model and infrastructure costs separate.
 
 ## Research Agents
 

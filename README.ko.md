@@ -262,6 +262,7 @@ AI 에이전트는 LLM을 핵심 추론 엔진으로 사용하며 다음을 수�
 - [Browserbase](https://www.browserbase.com/) - AI 에이전트를 위한 클라우드 브라우저 인프라.
 - [MultiOn](https://www.multion.ai/) - 사용자를 대신하여 웹사이트와 상호작용하는 AI 에이전트.
 - [WebVoyager](https://github.com/MinorJerry/WebVoyager) - LMM으로 엔드투엔드 웹 에이전트 구축.
+- [agent-qa](https://vostride.com) - 자연어 기반 웹·모바일 QA 도구로, 영구 memidex 메모리, 검증된 자기 개선 및 실행 증거를 제공하며, [FSL-1.1-ALv2](https://vostride.com/license.md)는 경쟁 용도로의 사용을 제한하고 모델·인프라 비용은 별도입니다.
 
 ## 리서치 에이전트
 
