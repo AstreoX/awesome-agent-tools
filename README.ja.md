@@ -262,6 +262,7 @@ AIエージェントとは、LLMをコア推論エンジンとして使用し、
 - [Browserbase](https://www.browserbase.com/) - AIエージェント向けクラウドブラウザインフラ。
 - [MultiOn](https://www.multion.ai/) - ユーザーに代わってWebサイトを操作するAIエージェント。
 - [WebVoyager](https://github.com/MinorJerry/WebVoyager) - LMMを使用したエンドツーエンドWebエージェントの構築。
+- [agent-qa](https://vostride.com) - 自然言語によるWeb・モバイルQA。永続的なmemidexメモリ、検証付きの自己改善、実行証跡を備え、[FSL-1.1-ALv2](https://vostride.com/license.md)には競合利用の制限があり、モデルとインフラの費用は別途必要です。
 
 ## リサーチエージェント
 

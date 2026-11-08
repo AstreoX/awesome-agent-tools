@@ -262,6 +262,7 @@ Esto distingue a los agentes de los chatbots simples o las aplicaciones LLM de u
 - [Browserbase](https://www.browserbase.com/) - Infraestructura de navegadores en la nube para agentes de IA.
 - [MultiOn](https://www.multion.ai/) - Agente de IA para interactuar con sitios web en nombre de los usuarios.
 - [WebVoyager](https://github.com/MinorJerry/WebVoyager) - Construcción de un agente web de extremo a extremo con LMMs.
+- [agent-qa](https://vostride.com) - Pruebas de calidad web y móvil en lenguaje natural con memoria persistente memidex, automejora validada y evidencias de ejecución; [FSL-1.1-ALv2](https://vostride.com/license.md) restringe el uso competitivo, con costes de modelos e infraestructura aparte.
 
 ## Agentes de investigación
 
