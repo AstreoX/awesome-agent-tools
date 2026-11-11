@@ -131,6 +131,7 @@ This distinguishes agents from simple chatbots or single-turn LLM applications.
 - [Instructor](https://github.com/jxnl/instructor) - Structured output library making function calling reliable.
 - [Outlines](https://github.com/dottxt-ai/outlines) - Structured text generation for reliable tool use.
 - [NPI](https://github.com/npi-ai/npi) - Tool-use API platform enabling agents to operate various software tools.
+- [Datacircle](https://datacircle.dev) - Open API at api.datacircle.dev/v1 that ranks the best GTM APIs, with no key.
 
 ## Model Context Protocol (MCP)
 
